@@ -1,0 +1,15 @@
+
+--- RNN Output ---
+Which do you prefer? Dogs or cats? he said. Yes; it is plenty of time! Where are you going? Monsieur Morrel, you think of what I live: I? If but it gives use as drunk as far as the tendency to change must return again about the town with:q
+Custom Prompt - RNN:
+Would you call yourself brave? she said, pointing now his head. Where here!... De Hans! exclaimed Courfeyrac. Few must it be up," "Yes," said Pooh in asking a place of glad indifferent in his presence, as Napoleon had received a rubber;
+
+--- LSTM Output ---
+Which do you prefer? Dogs or cats? said Natsha, laughing. Just while Snyawhy, she said to Mademoiselle Bourienne, who maintain her, help yourselves in the sleeping gide, and now we had got up and always the key of the spears, from their shields Ulysses a trap, to
+Custom Prompt - LSTM:
+Would you call yourself brave? added the adjutant! A fro voice!but here everybody has been wnerable to a harpooneer I must get back to twenty sous, faithful chart. I have already thought Theynded with bloodsters. Ah, said the officer making a bat
+
+--- Transformer Output ---
+Which do you prefer? Dogs or cats? D. Which answered Dogs. Which do you prefer your Dogs point, Dogs Dogs Romes Dogogsoss Dogs Sun Dogs the Dogs Dogs Dogogs
+Custom Prompt - Transformer:
+Would you call yourself brave? Would her brave? Would you call yourself you callieu? Would you call her brave? Would you call yourself? Would you call yourself, Would? Would you call yourself, what? Would you call yourself, pity yourself, between yourself call yourself call
